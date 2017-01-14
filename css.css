@@ -1,0 +1,79 @@
+
+.title-text{
+font-size:75px;
+font-family:'Pacifico', 'Sans-serif';
+color:white;
+}
+
+.title-bar
+{
+  border-style:solid;
+  border-color:white;
+  border-width:5px;
+  padding:20px;
+  margin:20px;
+  height:300px;
+  width:1145px;
+  background-image:url(http://static.sportskeeda.com/wp-content/uploads/2014/06/anfield-1402031330.jpg);
+opacity=0.5;
+}
+
+.gallery, #body_time{border-style:solid;
+  border-color:white;
+  border-width:5px;
+  padding:20px;
+  margin:20px;
+  height:300px;
+  width:1200px;
+  background-color:white;
+ }
+
+.bob2{
+height:300px;  
+}
+
+.bob1{
+ height:300px;
+}
+#timeline{
+  width:500px;
+  padding:40px;
+  margin:40px;
+  padding-right:60%;
+  padding-left:30%  ;
+  height:1000px;
+  
+}
+#body_time{
+  font-size:17px;
+  font-family:'Roboto', sans-serif;
+  background-color:white;
+  height:700px;
+}
+h2{font-family:'Roboto', sans-serif;}
+
+#back-image{
+  background-image:url(http://wallpapercave.com/wp/18ZsH4V.jpg
+);
+height:2000px;  
+  
+}
+#head-title{
+  color:white;
+  font-size:50px;
+}
+.quote{
+  border-style:solid;
+  border-color:white;
+  border-width:5px;
+  background-color:white;
+  padding:20px;
+  margin:20px;
+  height:175px;
+  width:1000px;
+  
+}
+.quote-text{
+  font-family:'Dancing Script';
+  
+}
